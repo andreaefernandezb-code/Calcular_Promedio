@@ -1,4 +1,4 @@
-# Tarea Práctica: Funciones en Python
+# Tarea Práctica: Crear una función basada en un problema de la vida real
 
 **Estudiante:** Andrea Elizabeth Fernández Barragán
 
